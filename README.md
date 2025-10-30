@@ -1,7 +1,7 @@
 <!
    
 
-                          (![dev-animado](https://github.com/user-attachments/assets/dc970d44-c754-4f08-aede-b64b87062e7e)
+![dev-animado](https://github.com/user-attachments/assets/4fd439b0-b465-43f5-94d4-98c660c67156)
 
     👋 Hello! I'm Idris Belghtih  
      A student passionate about programming 🚀. Currently learning :
@@ -19,6 +19,8 @@ Mastering C++ & OOP 💡
 Algorithms and Problem Solving 
 Practicing with small projects 🛠️
 Improving my professional profile on GitHub...
+
+
 
 
 🛠️ Skills & Tools  : 
