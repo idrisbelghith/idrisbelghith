@@ -1,4 +1,5 @@
    
+  ![Uploading dev-animado.gif…]()
 
 
     #👋 Hello! I'm Idris Belghtih  
@@ -21,7 +22,7 @@ Improving my professional profile on GitHub...
 
 
 
-##🛠️ Skills & Tools  : 
+#🛠️ Skills & Tools  : 
 C++ , Microsoft Visual Studio 
 
 
