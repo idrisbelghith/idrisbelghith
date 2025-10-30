@@ -1,11 +1,13 @@
-
+<!
    
 
-                          ![dev-animado](https://github.com/user-attachments/assets/dc970d44-c754-4f08-aede-b64b87062e7e)
+                          (![dev-animado](https://github.com/user-attachments/assets/dc970d44-c754-4f08-aede-b64b87062e7e)
 
     👋 Hello! I'm Idris Belghtih  
-     A student passionate about programming 🚀. Currently learning C++, OOP and problem-solving using Visual Studio to build my skills 💻.
-     Also, I'm a student in Programming advice  Roadmap. I love building projects, improving my skills, and sharing my progress with the community.
+     A student passionate about programming 🚀. Currently learning :
+     C++, OOP and problem-solving using Visual Studio to build my skills 💻.
+     Also, I'm a student in Programming advice  Roadmap.
+     I love building projects, improving my skills, and sharing my progress with the community.
    
 
 
@@ -26,4 +28,4 @@ C++ , Microsoft Visual Studio
 - 📫 How to reach me:
 Email : belghithidris@gmail.com 
 Linkedin : https://www.linkedin.com/in/idris-belghith-78376a372/ 
-  <!---->
+  -->
