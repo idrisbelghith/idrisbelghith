@@ -1,5 +1,4 @@
 <!   
-  ![Uploading dev-animado.gif…]()
 
 
     #👋 Hello! I'm Idris Belghtih  
