@@ -1,6 +1,7 @@
-       ![dev-animado](https://github.com/user-attachments/assets/e87b2e91-cea2-4417-a7d2-f7347a8b2ccd)
 
 
+
+![dev-animado](https://github.com/user-attachments/assets/fa647307-a15a-45f1-852a-8a46858e5c0d)
 
 👋 Hello! I'm Idris Belghtih  
 A student passionate about programming 🚀. Currently learning C++, OOP and problem-solving using Visual Studio to build my skills 💻.
