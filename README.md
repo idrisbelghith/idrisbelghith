@@ -1,7 +1,6 @@
-<!
    
 
-![dev-animado](https://github.com/user-attachments/assets/4fd439b0-b465-43f5-94d4-98c660c67156)
+  ![Uploading animated-developer-flat-character-708605.webp…]()
 
     👋 Hello! I'm Idris Belghtih  
      A student passionate about programming 🚀. Currently learning :
