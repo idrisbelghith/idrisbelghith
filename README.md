@@ -1,6 +1,5 @@
    
 
-![Uploading dev-working_rounded.gif…]()
 
     👋 Hello! I'm Idris Belghtih  
      A student passionate about programming 🚀. Currently learning :
