@@ -2,7 +2,7 @@
 
     #👋 Hello! I'm Idris Belghtih  
      A student passionate about programming 🚀. Currently learning :
-     C++, OOP and problem-solving using Visual Studio to build my skills 💻.                            
+     C++, C# OOP,SQL and problem-solving using Visual Studio to build my skills 💻.                            
      Also, I'm a student in Programming advice  Roadmap.
      I love building projects, improving my skills, and sharing my progress with the community.
    
